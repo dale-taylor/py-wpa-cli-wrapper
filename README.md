@@ -3,7 +3,6 @@ A simple wrapper for a few `wpa_cli` functions that simplifies the control of wi
 
 ## Requirements
 * wpa_supplicant
-* wpa_cli
 * Python 3.5+
 
 ## About
